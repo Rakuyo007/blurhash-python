@@ -1,5 +1,7 @@
 # blurhash-python
-Fuzzy hashing algorithm implemented using pure python
+Source project: [https://github.com/woltapp/blurhash](https://github.com/woltapp/blurhash)
+
+The content in this project is a pure Python implementation of the source project
 
 ## Examples 1
 
